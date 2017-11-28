@@ -16,8 +16,6 @@
 		AF0EADE81FC1BDE20039227B /* FirstOjectiveCAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AF0EADE71FC1BDE20039227B /* FirstOjectiveCAppTests.m */; };
 		AF0EADF31FC1BDE20039227B /* FirstOjectiveCAppUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = AF0EADF21FC1BDE20039227B /* FirstOjectiveCAppUITests.m */; };
 		AF0EAE011FC1C5D20039227B /* NewFileOne.m in Sources */ = {isa = PBXBuildFile; fileRef = AF0EAE001FC1C5D20039227B /* NewFileOne.m */; };
-		AF0EAE031FC1C5FC0039227B /* FirstOjectiveCApp in Resources */ = {isa = PBXBuildFile; fileRef = AF0EAE021FC1C5FB0039227B /* FirstOjectiveCApp */; };
-		AF0EAE051FC1C60C0039227B /* FirstOjectiveCApp in Resources */ = {isa = PBXBuildFile; fileRef = AF0EAE041FC1C60C0039227B /* FirstOjectiveCApp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,8 +53,6 @@
 		AF0EADF21FC1BDE20039227B /* FirstOjectiveCAppUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstOjectiveCAppUITests.m; sourceTree = "<group>"; };
 		AF0EADF41FC1BDE20039227B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AF0EAE001FC1C5D20039227B /* NewFileOne.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewFileOne.m; sourceTree = "<group>"; };
-		AF0EAE021FC1C5FB0039227B /* FirstOjectiveCApp */ = {isa = PBXFileReference; lastKnownFileType = folder; name = FirstOjectiveCApp; sourceTree = "<group>"; };
-		AF0EAE041FC1C60C0039227B /* FirstOjectiveCApp */ = {isa = PBXFileReference; lastKnownFileType = folder; name = FirstOjectiveCApp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,8 +113,6 @@
 				AF0EADDC1FC1BDE20039227B /* Info.plist */,
 				AF0EADDD1FC1BDE20039227B /* main.m */,
 				AF0EAE001FC1C5D20039227B /* NewFileOne.m */,
-				AF0EAE041FC1C60C0039227B /* FirstOjectiveCApp */,
-				AF0EAE021FC1C5FB0039227B /* FirstOjectiveCApp */,
 			);
 			path = FirstOjectiveCApp;
 			sourceTree = "<group>";
@@ -249,8 +243,6 @@
 			files = (
 				AF0EADDB1FC1BDE20039227B /* LaunchScreen.storyboard in Resources */,
 				AF0EADD81FC1BDE20039227B /* Assets.xcassets in Resources */,
-				AF0EAE031FC1C5FC0039227B /* FirstOjectiveCApp in Resources */,
-				AF0EAE051FC1C60C0039227B /* FirstOjectiveCApp in Resources */,
 				AF0EADD61FC1BDE20039227B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
